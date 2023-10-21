@@ -38,4 +38,4 @@ org.springframework\
 
 ## Metaspace
 
-![metaspace] (https://github.com/TatarinovAn/JVMExpt/blob/main/Metaspace.PNG?raw=true)
+![metaspace](https://github.com/TatarinovAn/JVMExpt/blob/main/Metaspace.PNG?raw=true)
